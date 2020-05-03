@@ -131,4 +131,4 @@ dmypy.json
 # Folders
 
 dev/
-data/ImageNet_subset/images
+data/ImageNet_subset/images/
