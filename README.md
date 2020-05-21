@@ -67,6 +67,9 @@ This extension to the FGSM applies it multiple times and clips values after each
 **Iterative Least-Likely Class Method**
 
 
+**Some targeted**
+-> Define
+
 
 **DeepFool**
 
@@ -87,7 +90,6 @@ The following plot gives an overview of the average accuracy and confidence for 
 ### 1.3 Defenses against attacks
 
 Adversarial training -> Chose examples wisely. Using overly perturbed examples can lead to a decrease of robustness [10]
-
 
 
 ## 2. Generative Adversarial Networks (GANs)
